@@ -1,4 +1,4 @@
-# spaqlfish
+# SPARQLfish
 sparql query effort for glam hackathon 2018
 
 ==== New Frontiers in Graph Queries ====
