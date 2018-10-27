@@ -1,4 +1,5 @@
-# SPARQLfish
+![alt text](https://github.com/sparqlfish/sparqlfish/blob/master/SPARQLfish%20logo.png)
+
 GLAMhack 2018
 
 You can try it here: https://sparqlfish.github.io/sparqlfish/
