@@ -1,3 +1,7 @@
 <p>
-    <input type="text" [(ngModel)]="searchtext" placeholder="enter your query here and press [enter]" required>
+    <input type="text" [(ngModel)]="searchtext" placeholder="enter your query here and press [enter]" required (keypress)="evaluate($event)">
+</p>
+
+<p>
+  value: {{value}}
 </p>
