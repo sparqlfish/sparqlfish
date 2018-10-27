@@ -1,6 +1,8 @@
 # SPARQLfish
 GLAMhack 2018
 
+You can try it here: https://sparqlfish.github.io/sparqlfish/
+
 ## Putting the spark back into SPARQL
 
 We begin with the observation that a typical SPARQL endpoint is not friendly in the eyes of an average user. Typical users of cultural databases include researchers in the humanities, museum professionals and the general public. Few of these people have any coding experience and few would feel comfortable translating their questions into a SPARQL query.  
