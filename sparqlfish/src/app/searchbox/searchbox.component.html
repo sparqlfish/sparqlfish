@@ -3,5 +3,29 @@
 </p>
 
 <p>
-  value: {{value}}
+  Potential Entities:
 </p>
+  <ul>
+    <li *ngFor="let entity of entities">
+      {{ entity }}
+    </li>
+  </ul>
+
+<p>
+  Potential Concepts:
+</p>
+  <ul>
+    <li *ngFor="let concept of concepts">
+      {{ concept }}
+    </li>
+  </ul>
+
+<p>
+  Potential Properties:
+</p>
+  <ul>
+    <li *ngFor="let property of properties">
+      {{ property }}
+    </li>
+  </ul>
+
