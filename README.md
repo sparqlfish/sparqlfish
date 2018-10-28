@@ -1,11 +1,10 @@
-# SPARQLfish
-GLAMhack 2018
+![alt text](https://github.com/sparqlfish/sparqlfish/blob/master/SPARQLfish%20logo.png)
 
-You can try it here: https://sparqlfish.github.io/sparqlfish/
+GLAMhack 2018 Project
 
-## Putting the spark back into SPARQL
+Try it here: https://sparqlfish.github.io/sparqlfish/
 
-We begin with the observation that a typical SPARQL endpoint is not friendly in the eyes of an average user. Typical users of cultural databases include researchers in the humanities, museum professionals and the general public. Few of these people have any coding experience and few would feel comfortable translating their questions into a SPARQL query.  
+A typical SPARQL endpoint is not friendly in the eyes of an average user. Typical users of cultural databases include researchers in the humanities, museum professionals and the general public. Few of these people have any coding experience and few would feel comfortable translating their questions into a SPARQL query.  
 
 Moreover, the majority of the users expect searches of online collections to take something like the form of a regular Google search (names, a few words, or at the top end Boolean operators). This approach to search does not make use of the full potential of the graph-type databases that typically make SPARQL endpoints available. It simply does not occur to an average user to ask the database a query of the type "show me all book authors whose children or grandchildren were artists."
 
